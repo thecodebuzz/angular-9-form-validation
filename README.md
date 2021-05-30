@@ -1,1 +1,1 @@
-https://thecodebuzz.com/form-validation-in-angular-8/
+https://thecodebuzz.com/form-validation-in-angular/
